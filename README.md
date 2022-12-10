@@ -5,7 +5,7 @@
 - 📫 How to reach me :
   - VX:peng-yang0910
   - QQ:420545806
-  - E-mail:420545806@qq.com
+  - E-mail:rick420.peng@qq.com
 
 <!---
 ss-Rick/ss-Rick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
