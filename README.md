@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @ss-Rick
+- 👋 Hi, I’m @peng-yang
 - 👀 I’m interested in SLAM 
 - 🌱 I’m currently learning gmapping,cartographer,sensor
 - 💞️ I’m looking to collaborate on SLAM algorithm
 - 📫 How to reach me :
-  - VX:peng-yang0910
+  - VX:parry_peng0809
   - QQ:420545806
-  - E-mail:rick420.peng@qq.com
+  - E-mail:parry_peng0809@qq.com
 
 <!---
 ss-Rick/ss-Rick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
