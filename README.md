@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on SLAM algorithm
 - 📫 How to reach me :
   - VX:parry_peng0809
-  - QQ:420545806
+  - QQ:1727676650
   - E-mail:parrypeng420@qq.com
 
 <!---
